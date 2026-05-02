@@ -1,0 +1,282 @@
+[
+  {
+    "id": "doc_001",
+    "title": "Myocardial Infarction (Heart Attack)",
+    "text": "Myocardial infarction occurs when blood flow to part of the heart is blocked, causing tissue death. Classic presentation includes crushing central chest pain radiating to the left arm, jaw, or shoulder, accompanied by sweating, nausea, and shortness of breath. Atypical presentations occur in women, diabetics, and elderly patients, who may present with fatigue, jaw pain, or epigastric discomfort only. Immediate management: call emergency services, administer aspirin 300mg if not contraindicated, and arrange urgent transfer to a cardiac centre for reperfusion therapy.",
+    "urgency": "RED",
+    "category": "cardiovascular"
+  },
+  {
+    "id": "doc_002",
+    "title": "Stroke (Cerebrovascular Accident)",
+    "text": "Stroke results from sudden interruption of cerebral blood supply, either ischaemic (80%) or haemorrhagic (20%). Use the FAST tool: Face drooping, Arm weakness, Speech difficulty, Time to call emergency services. Additional features include sudden severe headache, vision disturbance, and loss of balance. Time is brain — every minute of delay destroys approximately 1.9 million neurons. Do not give aspirin until haemorrhagic stroke is excluded by CT scan. Transfer to a stroke unit within 4.5 hours for thrombolysis eligibility.",
+    "urgency": "RED",
+    "category": "neurological"
+  },
+  {
+    "id": "doc_003",
+    "title": "Dengue Fever",
+    "text": "Dengue fever is a mosquito-borne flavivirus infection endemic in Pakistan, particularly during and after monsoon season. Classic presentation: sudden high fever (39–40°C), severe headache, retro-orbital pain, myalgia, arthralgia, and a maculopapular rash appearing 3–5 days after fever onset. Warning signs of severe dengue include abdominal pain, persistent vomiting, bleeding gums, rapid breathing, and restlessness — these require immediate hospitalisation. Monitor platelet count and haematocrit daily. Management is supportive: oral rehydration, paracetamol for fever (avoid NSAIDs and aspirin due to bleeding risk).",
+    "urgency": "high",
+    "category": "infectious"
+  },
+  {
+    "id": "doc_004",
+    "title": "Malaria",
+    "text": "Malaria in Pakistan is caused predominantly by Plasmodium vivax (80%) and Plasmodium falciparum (20%). Cyclical fever with chills, rigors, and sweating occurring every 48–72 hours is classic but often absent in early stages. Falciparum malaria is life-threatening and can cause cerebral malaria (confusion, seizures), severe anaemia, and organ failure. Rapid diagnostic test (RDT) or blood film is required for diagnosis. Uncomplicated vivax: chloroquine followed by primaquine (check G6PD status first). Falciparum: artemisinin-based combination therapy. Severe malaria: IV artesunate.",
+    "urgency": "high",
+    "category": "infectious"
+  },
+  {
+    "id": "doc_005",
+    "title": "Typhoid Fever (Enteric Fever)",
+    "text": "Typhoid fever is caused by Salmonella typhi, transmitted via contaminated food and water — a significant public health problem in Pakistan. Presentation: sustained high fever rising in a stepwise pattern over 1–2 weeks, frontal headache, relative bradycardia, rose spots on the trunk, hepatosplenomegaly, and constipation (early) followed by diarrhoea. Complications include intestinal perforation and haemorrhage. Extensively drug-resistant (XDR) typhoid is prevalent in Pakistan: first-line treatment is azithromycin or ceftriaxone. Confirm with blood culture (first week) or Widal test.",
+    "urgency": "high",
+    "category": "infectious"
+  },
+  {
+    "id": "doc_006",
+    "title": "Tuberculosis (TB)",
+    "text": "Pakistan has one of the highest TB burdens globally. Pulmonary TB presents with productive cough lasting more than 2 weeks, haemoptysis, night sweats, unexplained weight loss, low-grade fever, and fatigue. Extrapulmonary TB can affect lymph nodes, spine (Pott's disease), meninges, and pleura. Diagnosis: sputum AFB smear, GeneXpert MTB/RIF for rapid diagnosis and rifampicin resistance detection. Treatment: 6-month regimen (HRZE x2 months + HR x4 months). Drug-resistant TB requires specialist management. Report all cases to the national TB programme.",
+    "urgency": "high",
+    "category": "infectious"
+  },
+  {
+    "id": "doc_007",
+    "title": "Sepsis and Septic Shock",
+    "text": "Sepsis is a life-threatening organ dysfunction caused by dysregulated host response to infection. Suspect sepsis when infection is accompanied by altered mental status, respiratory rate >22/min, or systolic BP <100 mmHg (qSOFA criteria). Septic shock: sepsis with vasopressor requirement and lactate >2 mmol/L despite fluid resuscitation — mortality exceeds 40%. Hour-1 bundle: blood cultures, broad-spectrum antibiotics (within 1 hour), 30ml/kg IV crystalloid bolus, vasopressors if hypotension persists, lactate measurement. Source control is essential.",
+    "urgency": "RED",
+    "category": "critical"
+  },
+  {
+    "id": "doc_008",
+    "title": "Anaphylaxis",
+    "text": "Anaphylaxis is a severe, life-threatening systemic allergic reaction. Onset is typically within minutes of exposure to an allergen. Features: urticaria, angioedema, bronchospasm (wheeze, stridor), hypotension, tachycardia, and loss of consciousness. Adrenaline (epinephrine) 0.5mg IM (anterolateral thigh) is the first-line treatment — do not delay. Lay patient flat, give high-flow oxygen, secure IV access, administer 1L crystalloid. Secondary treatment: antihistamines and corticosteroids. Observe for 6–12 hours after resolution due to risk of biphasic reaction.",
+    "urgency": "RED",
+    "category": "emergency"
+  },
+  {
+    "id": "doc_009",
+    "title": "Meningitis",
+    "text": "Bacterial meningitis is a medical emergency with mortality up to 30% if untreated. Classic triad: fever, severe headache, and neck stiffness (Kernig's and Brudzinski's signs). Additional features: photophobia, phonophobia, altered consciousness, and non-blanching petechial rash (suggests meningococcal disease). Do not delay antibiotics for lumbar puncture if patient is unstable. Give IV ceftriaxone 2g immediately and dexamethasone 0.15mg/kg to reduce inflammation. CT head before LP if focal neurological signs, papilloedema, or reduced GCS. Isolate patient and give antibiotic prophylaxis to close contacts.",
+    "urgency": "RED",
+    "category": "neurological"
+  },
+  {
+    "id": "doc_010",
+    "title": "Pulmonary Embolism",
+    "text": "Pulmonary embolism (PE) occurs when a thrombus — usually from deep vein thrombosis — lodges in pulmonary vasculature. Presents with sudden-onset dyspnoea, pleuritic chest pain, haemoptysis, and tachycardia. Risk factors: prolonged immobility, surgery, malignancy, pregnancy, and oral contraceptive use. Massive PE causes haemodynamic collapse. Wells score and D-dimer guide diagnostic pathway; CT pulmonary angiography (CTPA) confirms diagnosis. Treatment: anticoagulation with LMWH or NOAC. Massive PE: thrombolysis with alteplase if no contraindications.",
+    "urgency": "RED",
+    "category": "cardiovascular"
+  },
+  {
+    "id": "doc_011",
+    "title": "Pneumonia",
+    "text": "Pneumonia is infection of the lung parenchyma, most commonly caused by Streptococcus pneumoniae, Haemophilus influenzae, or atypical organisms (Mycoplasma, Legionella). Symptoms: productive cough, fever, pleuritic chest pain, dyspnoea, and reduced breath sounds with crepitations on auscultation. Assess severity using CURB-65 (Confusion, Urea, Respiratory rate, Blood pressure, Age ≥65) — score ≥2 indicates hospital admission. Chest X-ray confirms consolidation. Community-acquired pneumonia: amoxicillin ± clarithromycin. Hospital-acquired: broad-spectrum antibiotics. Ensure adequate oxygenation (SpO2 ≥94%).",
+    "urgency": "high",
+    "category": "respiratory"
+  },
+  {
+    "id": "doc_012",
+    "title": "COVID-19",
+    "text": "COVID-19 is caused by SARS-CoV-2. Presentation ranges from asymptomatic to critical illness. Common symptoms: fever, dry cough, fatigue, loss of smell (anosmia) and taste (ageusia), myalgia, and headache. Severe disease: dyspnoea, low oxygen saturation (SpO2 <94%), and bilateral pneumonia. High-risk groups: elderly, diabetic, hypertensive, obese, and immunocompromised individuals. Isolation and supportive care for mild cases. Hospitalisation for SpO2 <94%, prone positioning for severe hypoxia. Dexamethasone for patients requiring oxygen.",
+    "urgency": "high",
+    "category": "infectious"
+  },
+  {
+    "id": "doc_013",
+    "title": "Acute Asthma Attack",
+    "text": "Acute asthma is characterised by bronchospasm, mucosal oedema, and mucus plugging. Severity assessment: mild (PEFR >75%), moderate (50–75%), severe (<50% or RR >25, HR >110, unable to complete sentences), life-threatening (silent chest, cyanosis, altered consciousness, PEFR <33%). Treatment: salbutamol nebuliser 2.5–5mg, ipratropium 0.5mg, oxygen to maintain SpO2 94–98%, oral prednisolone 40–50mg. If no response, consider IV magnesium sulphate 1.2–2g and ICU referral. Failure to respond to initial bronchodilators indicates severe attack requiring urgent escalation.",
+    "urgency": "high",
+    "category": "respiratory"
+  },
+  {
+    "id": "doc_014",
+    "title": "Hypertensive Emergency",
+    "text": "Hypertensive emergency is defined as severely elevated blood pressure (usually >180/120 mmHg) with acute end-organ damage — encephalopathy, aortic dissection, acute MI, flash pulmonary oedema, or acute kidney injury. Distinguish from hypertensive urgency (no end-organ damage). Lower BP gradually by no more than 25% in the first hour to avoid ischaemia. IV labetalol or nitroprusside in ICU setting. Oral nifedipine is dangerous and should be avoided. Identify and treat the underlying cause.",
+    "urgency": "RED",
+    "category": "cardiovascular"
+  },
+  {
+    "id": "doc_015",
+    "title": "Diabetic Ketoacidosis (DKA)",
+    "text": "DKA is a life-threatening complication of diabetes characterised by hyperglycaemia, metabolic acidosis, and ketonaemia. Presentation: polyuria, polydipsia, nausea, vomiting, abdominal pain, Kussmaul breathing (deep sighing respiration), and fruity breath odour. Precipitants: infection, missed insulin, new-onset Type 1 diabetes. Management: IV fluid resuscitation (0.9% saline), fixed-rate insulin infusion (0.1 units/kg/hr), potassium replacement (monitor closely), identify and treat precipitating cause. Target: blood glucose <14 mmol/L, pH >7.3, bicarbonate >18 mmol/L.",
+    "urgency": "RED",
+    "category": "endocrine"
+  },
+  {
+    "id": "doc_016",
+    "title": "Acute Appendicitis",
+    "text": "Appendicitis is the most common surgical emergency, typically presenting in young adults. Classic progression: periumbilical pain migrating to the right iliac fossa (McBurney's point), anorexia, low-grade fever, and nausea. Rovsing's sign (RIF pain on LIF palpation) and rebound tenderness support diagnosis. Alvarado score aids risk stratification. USS or CT scan for confirmation. Risk of perforation increases after 72 hours. Treatment: urgent appendicectomy. Perforation presents with generalised peritonitis, high fever, and rigid abdomen — surgical emergency.",
+    "urgency": "high",
+    "category": "surgical"
+  },
+  {
+    "id": "doc_017",
+    "title": "Acute Gastroenteritis",
+    "text": "Acute gastroenteritis involves inflammation of the gastrointestinal tract, commonly caused by Rotavirus, Norovirus, or bacterial pathogens (Salmonella, E. coli, Campylobacter). Presents with nausea, vomiting, diarrhoea, abdominal cramps, and low-grade fever. Dehydration is the primary risk, especially in children and elderly. Assess dehydration severity: mild (thirsty), moderate (reduced skin turgor, dry mouth), severe (sunken eyes, lethargy, shock). Oral rehydration solution (ORS) is first-line. IV fluids for severe dehydration or inability to tolerate oral intake. Antibiotics rarely indicated except for cholera or severe Campylobacter.",
+    "urgency": "medium",
+    "category": "gastrointestinal"
+  },
+  {
+    "id": "doc_018",
+    "title": "Urinary Tract Infection (UTI)",
+    "text": "UTIs are common, especially in women. Lower UTI (cystitis): dysuria, frequency, urgency, and suprapubic pain without systemic features. Upper UTI (pyelonephritis): above symptoms plus flank pain, costovertebral tenderness, high fever, rigors, and vomiting — requires hospitalisation. Uncomplicated lower UTI: trimethoprim or nitrofurantoin for 3–7 days. Pyelonephritis: ciprofloxacin or co-amoxiclav for 7–14 days; IV ceftriaxone if systemically unwell. In Pakistan, antibiotic resistance is common — always send urine for culture before starting antibiotics if possible.",
+    "urgency": "medium",
+    "category": "urological"
+  },
+  {
+    "id": "doc_019",
+    "title": "Hepatitis A and E",
+    "text": "Hepatitis A and E are enterically transmitted viral hepatitis, common in Pakistan due to contaminated water and food. Presentation: prodromal illness (fatigue, anorexia, nausea), followed by jaundice, dark urine, pale stools, and tender hepatomegaly. Hepatitis E is particularly dangerous in pregnancy, causing fulminant hepatic failure with mortality up to 25% in the third trimester. Both are self-limiting in immunocompetent adults. Management: supportive care, rest, oral hydration, avoid hepatotoxic drugs and alcohol. Hepatitis A vaccine is available for prevention.",
+    "urgency": "medium",
+    "category": "hepatology"
+  },
+  {
+    "id": "doc_020",
+    "title": "Hepatitis B and C",
+    "text": "Hepatitis B (HBV) and C (HCV) are bloodborne viral infections causing chronic liver disease, cirrhosis, and hepatocellular carcinoma. Pakistan has high HCV prevalence (7–8%), largely due to unsafe injection practices. Acute HBV: jaundice, nausea, right upper quadrant pain, fatigue. Chronic infection is often asymptomatic until cirrhosis develops. Diagnose with serology (HBsAg, Anti-HCV). Chronic HBV: antiviral therapy (tenofovir, entecavir) for eligible patients. Chronic HCV: highly effective direct-acting antivirals (DAAs) achieve >95% cure rates. Screen close contacts and offer HBV vaccination.",
+    "urgency": "medium",
+    "category": "hepatology"
+  },
+  {
+    "id": "doc_021",
+    "title": "Peptic Ulcer Disease",
+    "text": "Peptic ulcers are mucosal defects in the stomach or duodenum caused by H. pylori infection (70%) or NSAID use. Symptoms: burning epigastric pain — duodenal ulcers typically relieved by food, gastric ulcers worsened by eating. Complications: bleeding (haematemesis, melaena), perforation (sudden severe abdominal pain, rigid abdomen — surgical emergency), and gastric outlet obstruction. Diagnosis: endoscopy with biopsy for H. pylori. Treatment: proton pump inhibitor (PPI) + H. pylori eradication (triple therapy: PPI + amoxicillin + clarithromycin for 7–14 days). Stop NSAIDs and advise smoking cessation.",
+    "urgency": "medium",
+    "category": "gastrointestinal"
+  },
+  {
+    "id": "doc_022",
+    "title": "Kidney Stones (Nephrolithiasis)",
+    "text": "Renal calculi cause severe colicky flank pain radiating to the groin ('loin to groin'), haematuria, nausea, and vomiting. Pain is typically severe and comes in waves. The patient is often restless (unlike peritonitis where patients lie still). Ureteric colic does not cause peritonism. Calcium oxalate stones are most common. CT KUB is the gold standard for diagnosis. Management: adequate analgesia (diclofenac or morphine), IV fluids, and alpha-blockers (tamsulosin) to facilitate passage. Stones >10mm or associated infection (pyonephrosis) require urgent urological intervention.",
+    "urgency": "high",
+    "category": "urological"
+  },
+  {
+    "id": "doc_023",
+    "title": "Anaemia",
+    "text": "Anaemia is defined as Hb <13.5 g/dL in men and <12 g/dL in women. Common causes in Pakistan: iron deficiency (most common, especially in women of reproductive age), thalassaemia, chronic disease, and folate/B12 deficiency. Symptoms: fatigue, pallor, dyspnoea on exertion, palpitations, and dizziness. Severe anaemia may cause high-output cardiac failure. Assess: full blood count, iron studies, peripheral smear, B12 and folate. Iron deficiency: oral ferrous sulphate 200mg TDS for 3 months. Investigate underlying cause (GI blood loss in adults).",
+    "urgency": "medium",
+    "category": "haematology"
+  },
+  {
+    "id": "doc_024",
+    "title": "Hypertension",
+    "text": "Hypertension is defined as sustained BP ≥140/90 mmHg and is a major risk factor for stroke, myocardial infarction, heart failure, and kidney disease. It is largely asymptomatic — hence called the 'silent killer'. Symptoms when present: headache (especially occipital, morning), epistaxis, and visual disturbance. Confirm with multiple readings over weeks or ambulatory monitoring. Lifestyle modifications: salt restriction (<5g/day), regular exercise, weight loss, smoking cessation. First-line medications: ACE inhibitors, ARBs, calcium channel blockers, or thiazide diuretics depending on patient profile.",
+    "urgency": "medium",
+    "category": "cardiovascular"
+  },
+  {
+    "id": "doc_025",
+    "title": "Type 2 Diabetes Mellitus",
+    "text": "Type 2 diabetes is characterised by insulin resistance and relative insulin deficiency, associated with obesity and sedentary lifestyle. Symptoms: polyuria, polydipsia, unexplained weight loss, fatigue, blurred vision, and recurrent infections. Many patients are asymptomatic at diagnosis. Complications: retinopathy, nephropathy, neuropathy, and cardiovascular disease. Diagnostic criteria: fasting glucose ≥7 mmol/L or HbA1c ≥48 mmol/mol. Management: lifestyle modification (diet, exercise), metformin first-line, escalation to other agents or insulin as required. Monitor HbA1c every 3 months.",
+    "urgency": "medium",
+    "category": "endocrine"
+  },
+  {
+    "id": "doc_026",
+    "title": "Migraine",
+    "text": "Migraine is a primary headache disorder characterised by recurrent episodes of moderate-to-severe unilateral pulsating headache lasting 4–72 hours, associated with nausea, vomiting, photophobia, and phonophobia. Aura (visual zigzag patterns, tingling) precedes headache in 30% of cases. Triggers: stress, certain foods, hormonal changes, dehydration, and sleep disruption. Acute treatment: triptans (sumatriptan) are most effective; NSAIDs and paracetamol for mild-moderate attacks. Preventive therapy (propranolol, topiramate, amitriptyline) for frequent attacks (>4/month). Red flag symptoms requiring urgent investigation: thunderclap headache, fever, neck stiffness, focal neurology.",
+    "urgency": "low",
+    "category": "neurological"
+  },
+  {
+    "id": "doc_027",
+    "title": "Cholera",
+    "text": "Cholera is caused by Vibrio cholerae, causing profuse watery 'rice-water' diarrhoea and vomiting leading to rapid severe dehydration. It spreads via contaminated water, particularly during floods — a major concern during Pakistan's monsoon seasons. Dehydration can be life-threatening within hours if untreated. Management: aggressive oral or IV rehydration is the cornerstone — WHO ORS or Ringer's lactate. Severe cases: IV fluid replacement of up to 10L in the first few hours. Antibiotics (doxycycline single dose) reduce duration but are secondary to rehydration. Notify public health authorities.",
+    "urgency": "RED",
+    "category": "infectious"
+  },
+  {
+    "id": "doc_028",
+    "title": "Rheumatoid Arthritis",
+    "text": "Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory arthritis typically affecting small joints of hands and feet symmetrically. Morning stiffness lasting >1 hour is characteristic. Extra-articular manifestations: rheumatoid nodules, interstitial lung disease, anaemia, and vasculitis. Diagnosis: anti-CCP antibody and rheumatoid factor, X-ray, and clinical criteria. Early aggressive treatment prevents joint destruction. DMARDs (methotrexate first-line) should be started promptly. Biologics (anti-TNF) for refractory disease. NSAIDs for symptom relief. Regular monitoring for drug toxicity.",
+    "urgency": "medium",
+    "category": "rheumatology"
+  },
+  {
+    "id": "doc_029",
+    "title": "Panic Disorder and Anxiety",
+    "text": "Panic attacks are discrete episodes of intense fear with somatic symptoms: palpitations, chest tightness, dyspnoea, dizziness, paraesthesiae, sweating, and fear of dying. They mimic cardiac and respiratory emergencies — always exclude organic causes first (ECG, troponin, oxygen saturation). Reassurance and slow breathing techniques during the acute episode. Long-term management: CBT is most effective; SSRIs (sertraline, escitalopram) for pharmacological treatment. Avoid benzodiazepines as long-term treatment. Generalised anxiety disorder presents with persistent worry, muscle tension, and sleep disturbance.",
+    "urgency": "low",
+    "category": "psychiatric"
+  },
+  {
+    "id": "doc_030",
+    "title": "Pancreatitis",
+    "text": "Acute pancreatitis presents with severe epigastric pain radiating to the back, nausea, vomiting, and tenderness on palpation. Common causes: gallstones (most common in Pakistan) and alcohol. Serum amylase or lipase >3x upper limit of normal confirms diagnosis. Assess severity using Glasgow or Ranson criteria. Mild disease: supportive care, IV fluids, analgesia, and early oral feeding. Severe pancreatitis (necrosis, multi-organ failure) requires HDU/ICU care, nutritional support, and management of complications (infection, pseudocyst). CT abdomen for severity assessment if not improving.",
+    "urgency": "high",
+    "category": "gastrointestinal"
+  },
+  {
+    "id": "doc_031",
+    "title": "Deep Vein Thrombosis (DVT)",
+    "text": "DVT occurs when a blood clot forms in a deep vein, usually in the leg. Presents with unilateral leg pain, swelling, warmth, erythema, and dilated superficial veins. Risk factors: immobility, surgery, malignancy, pregnancy, thrombophilia, and long-haul travel. Wells score guides pre-test probability. D-dimer is sensitive but not specific; Doppler USS confirms diagnosis. Treatment: anticoagulation with LMWH followed by NOAC or warfarin for 3–6 months. PE prophylaxis in hospitalised patients is essential.",
+    "urgency": "high",
+    "category": "cardiovascular"
+  },
+  {
+    "id": "doc_032",
+    "title": "Urinary Retention and Prostate Disease",
+    "text": "Acute urinary retention is the sudden inability to pass urine despite a full bladder — a urological emergency causing severe suprapubic pain. Causes: benign prostatic hyperplasia (BPH), urethral stricture, and medications (anticholinergics). Immediate management: urethral catheterisation for relief. Chronic retention may be painless with overflow incontinence. BPH symptoms: hesitancy, weak stream, frequency, nocturia, and incomplete emptying. Investigations: PSA (after discussion regarding prostate cancer risk), USS, and flow rate. Alpha-blockers (tamsulosin) first-line for BPH.",
+    "urgency": "high",
+    "category": "urological"
+  },
+  {
+    "id": "doc_033",
+    "title": "Heart Failure",
+    "text": "Heart failure is the inability of the heart to pump sufficient blood to meet metabolic demands. Left heart failure: dyspnoea on exertion, orthopnoea, paroxysmal nocturnal dyspnoea, fine crepitations at lung bases. Right heart failure: peripheral oedema, raised JVP, hepatomegaly. Acute pulmonary oedema is life-threatening: patient sits upright, frothy pink sputum, severe dyspnoea. Immediate treatment: oxygen, IV furosemide, GTN. Chronic management: ACE inhibitor, beta-blocker, spironolactone, SGLT2 inhibitor. Echocardiography to assess ejection fraction.",
+    "urgency": "high",
+    "category": "cardiovascular"
+  },
+  {
+    "id": "doc_034",
+    "title": "Acute Kidney Injury (AKI)",
+    "text": "AKI is a rapid decline in renal function, defined by rise in serum creatinine ≥26 µmol/L in 48 hours or ≥1.5x baseline in 7 days. Causes: pre-renal (dehydration, sepsis, heart failure), intrinsic renal (glomerulonephritis, tubular necrosis), post-renal (obstruction). Symptoms: reduced urine output, fluid overload, confusion, uraemic symptoms. Hyperkalaemia (>6.5 mmol/L) is immediately life-threatening — ECG changes require urgent treatment with calcium gluconate, insulin-dextrose, and salbutamol. Identify and treat underlying cause. Dialysis for severe complications.",
+    "urgency": "RED",
+    "category": "renal"
+  },
+  {
+    "id": "doc_035",
+    "title": "Epilepsy and Seizures",
+    "text": "Status epilepticus is a seizure lasting >5 minutes or two seizures without return to baseline — a neurological emergency. Immediate management: secure airway, position patient safely, give high-flow oxygen, IV access. Benzodiazepines first-line (IV lorazepam 0.1mg/kg or IM midazolam). If seizures persist after two doses, second-line: IV levetiracetam, sodium valproate, or phenytoin. Refractory status epilepticus requires anaesthesia and ICU. After a first seizure: MRI brain, EEG, metabolic screen. Common precipitants: low anticonvulsant levels, CNS infection, metabolic disturbance, and sleep deprivation.",
+    "urgency": "RED",
+    "category": "neurological"
+  },
+  {
+    "id": "doc_036",
+    "title": "Childhood Fever and Febrile Convulsions",
+    "text": "Fever in children under 5 years requires careful assessment. Danger signs (WHO IMCI): inability to drink, convulsions, lethargy, central cyanosis, and severe respiratory distress. Febrile convulsions occur in 2–5% of children aged 6 months to 5 years — usually self-limiting (<5 minutes). Management: position safely, do not restrain, check blood glucose. Investigate underlying cause of fever (malaria, UTI, pneumonia). Simple febrile convulsions do not require anticonvulsant prophylaxis. Complex febrile convulsions (prolonged, focal, or recurrent within 24 hours) require further investigation.",
+    "urgency": "high",
+    "category": "paediatric"
+  },
+  {
+    "id": "doc_037",
+    "title": "Iron Deficiency Anaemia in Women",
+    "text": "Iron deficiency anaemia is highly prevalent in Pakistani women due to poor dietary intake, frequent pregnancies, and menorrhagia. Symptoms: fatigue, pallor, dyspnoea, pica (craving non-food substances), koilonychia (spoon-shaped nails), and angular stomatitis. In pregnancy, severe anaemia is associated with preterm birth and maternal mortality. Diagnosis: low MCV, low ferritin (<15 µg/L). Treat with oral ferrous sulphate 200mg twice daily for at least 3 months. IV iron for severe anaemia in pregnancy or intolerance. Address underlying cause.",
+    "urgency": "medium",
+    "category": "haematology"
+  },
+  {
+    "id": "doc_038",
+    "title": "Diarrhoeal Disease in Children (IMCI)",
+    "text": "Diarrhoea is a leading cause of child mortality in Pakistan. Assess dehydration: no dehydration (treat at home with ORS and zinc), some dehydration (ORS 75 ml/kg over 4 hours in clinic), severe dehydration (IV Ringer's lactate 100 ml/kg, urgent hospitalisation). Zinc supplementation (20mg for 10–14 days) reduces duration and severity. Antibiotics only for bloody diarrhoea (dysentery) or cholera. Continued feeding (breastfeeding, age-appropriate foods) during illness prevents malnutrition. Educate caregivers on handwashing and safe water storage.",
+    "urgency": "high",
+    "category": "paediatric"
+  },
+  {
+    "id": "doc_039",
+    "title": "Obstetric Emergencies — Pre-eclampsia and Eclampsia",
+    "text": "Pre-eclampsia is defined as hypertension (BP ≥140/90 mmHg) with proteinuria after 20 weeks gestation. Severe features: BP ≥160/110, severe headache, visual disturbances, epigastric pain, and HELLP syndrome (haemolysis, elevated liver enzymes, low platelets). Eclampsia is the occurrence of seizures in pre-eclampsia. MgSO4 4g IV loading dose is first-line for eclampsia and severe pre-eclampsia seizure prevention. Antihypertensives for BP control (labetalol, nifedipine). Definitive treatment is delivery — timing depends on gestational age and severity.",
+    "urgency": "RED",
+    "category": "obstetric"
+  },
+  {
+    "id": "doc_040",
+    "title": "Heat Stroke",
+    "text": "Heat stroke is a life-threatening emergency defined by core body temperature >40°C with central nervous system dysfunction (confusion, seizures, coma). Classic heat stroke occurs in elderly or ill patients during hot weather. Exertional heat stroke occurs in young people during intense physical activity. Immediate cooling is the priority: remove clothing, apply ice packs to neck, axillae, and groin, cool mist and fan, cold IV fluids. Target temperature: <39°C within 30 minutes. Monitor and treat complications: rhabdomyolysis, DIC, AKI, hepatic failure. Particularly relevant in Pakistan's summer months (May–August).",
+    "urgency": "RED",
+    "category": "emergency"
+  }
+]
