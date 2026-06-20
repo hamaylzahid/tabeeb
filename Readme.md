@@ -1,6 +1,9 @@
 <div align="center">
 
 <h1>TabeebAI</h1>
+<a href="https://tabeeb-ai.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20App-brightgreen?style=for-the-badge&logo=streamlit" alt="Live Demo">
+  </a>
 
 <br>
 
@@ -17,12 +20,7 @@
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
 
-<br><br>
-
-<a href="https://tabeeb-ai.streamlit.app/">Live Demo</a>
-&nbsp;|&nbsp;
-<a href="https://github.com/hamaylzahid/tabeeb.git">Repository</a>
-
+<br>
 </div>
 
 <br><br>
@@ -32,11 +30,8 @@
 <br>
 </div>
 
-TabeebAI is a clinical decision support system designed to assist healthcare providers in performing rapid, structured patient triage in both Urdu and English. It accepts patient input as text or voice, automatically detects the language, translates the content where required, extracts structured medical information, calculates a risk score, matches likely conditions against a disease symptom dataset, retrieves relevant medical knowledge through a retrieval augmented generation pipeline, and generates a clinical SOAP report for physician review.
-
-The system is built for environments where bilingual patient communication, time pressure, and the need for documentation accuracy intersect, such as primary care clinics, telemedicine services, and emergency intake desks.
-
-TabeebAI is a support tool only. It does not provide diagnoses and is not a replacement for a licensed medical professional. Every generated report requires human clinical review before any decision is made.
+TabeebAI is a clinical decision support system designed to assist healthcare providers in performing rapid, structured patient triage in both Urdu and English.
+<img src="assets/tabeeb_overview.png" alt="TabeebAI Overview" width="100%">
 
 <br><br>
 
@@ -245,8 +240,10 @@ streamlit run app.py
 </div>
 
 <div align="center">
-<a href="https://tabeeb-ai.streamlit.app/">https://tabeeb-ai.streamlit.app/</a>
-</div>
+<a href="https://tabeeb-ai.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20App-brightgreen?style=for-the-badge&logo=streamlit" alt="Live Demo">
+  </a>
+  </div>
 
 <br><br>
 
@@ -265,16 +262,3 @@ TabeebAI is a clinical decision support tool. It is not a diagnostic system and 
 </div>
 
 This project is released under the MIT License. See the LICENSE file in the repository for full terms.
-
-<br><br>
-
-<div align="center">
-<h2>Author</h2>
-<br>
-<b>Hamayl Zahid</b><br>
-AI Engineer
-<br><br>
-<a href="https://github.com/hamaylzahid">GitHub</a>
-</div>
-
-<br><br>
