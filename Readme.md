@@ -4,7 +4,7 @@
 <a href="https://tabeeb-ai.streamlit.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20App-brightgreen?style=for-the-badge&logo=streamlit" alt="Live Demo">
   </a>
-
+<img src="assets/tabeeb_overview.png" alt="TabeebAI Overview" width="100%">
 <br>
 
 <p>AI Powered Clinical Triage System for Urdu and English Speaking Patients</p>
@@ -31,7 +31,7 @@
 </div>
 
 TabeebAI is a clinical decision support system designed to assist healthcare providers in performing rapid, structured patient triage in both Urdu and English.
-<img src="assets/tabeeb_overview.png" alt="TabeebAI Overview" width="100%">
+
 
 <br><br>
 
