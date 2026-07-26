@@ -171,7 +171,6 @@ tabeeb/
 ├── assets/
 │   ├── logo.png                Application logo
 │   └── agahi_logo.png          Organization logo
-├── requirements.txt            Python dependencies
 └── README.md                   Project documentation
 </pre>
 
