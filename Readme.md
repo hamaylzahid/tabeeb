@@ -53,7 +53,6 @@ TabeebAI is a clinical decision support system designed to assist healthcare pro
 <li><b>Human in the Loop Review</b> — physicians can edit, confirm, and sign off on generated reports before they are finalized or downloaded.</li>
 <li><b>Multi Dashboard Interface</b> — separate views for patients, doctors, and developers, each tailored to its audience.</li>
 <li><b>Pipeline Observability</b> — full visibility into stage by stage execution time, retrieved knowledge chunks, disease matches, and model usage for debugging and audit purposes.</li>
-<li><b>Accessibility Controls</b> — adjustable font scaling for readability across different users.</li>
 </ul>
 
 <br><br>
